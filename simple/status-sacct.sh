@@ -1,0 +1,1 @@
+/home/ycc520/HPC_setting/scripts/HPC_related/smk-simple-slurm/extras/status-sacct.sh
